@@ -1,4 +1,4 @@
-# HackMyVM - Giit
+# HackMyVM - Gift
 
 **Lab enviroment**
 
